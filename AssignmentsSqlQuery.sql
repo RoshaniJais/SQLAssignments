@@ -1,4 +1,4 @@
-use AssignmrntsQuery
+use AssignmentsQuery
 go
 
 CREATE TABLE CLIENTS(
